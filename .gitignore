@@ -48,6 +48,9 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # OS
 .DS_Store
+
+# Large model files
+backend/ml/bert_model_output/model.safetensors
 Thumbs.db
 
 # Build outputs
