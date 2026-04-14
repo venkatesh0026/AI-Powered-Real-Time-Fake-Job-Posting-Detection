@@ -1,0 +1,10 @@
+flask
+python-dotenv
+supabase
+torch
+transformers
+numpy
+pandas
+fastapi
+uvicorn[standard]
+pydantic
